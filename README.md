@@ -32,7 +32,7 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB"><img title="Developer" src="https://img.shields.io/badge/Author-𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿%20-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Yunoh-Classic"><img title="Developer" src="https://img.shields.io/badge/Author-𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿%20-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -77,12 +77,12 @@ You will need a session ID to run 𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄�
 
 <h4 align="center">1. Heroku</h4>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-spark-md' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Yunoh-Classic/King-Yunoh' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="center">2. Koyeb</h4>
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=SilvaTechB/silva-spark-md&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=Yunoh-Classic/king -Yunoh&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 </p>
 
 <h4 align="center">3. Railway</h4>
